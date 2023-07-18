@@ -14,3 +14,5 @@ automatic.
 4- Building a system for storing medical supplies similar to the pharmacy system
 5- Assisting the nursing in recording the medical supplies and medicines consumed during each operation for each
 patient and presenting them to the admin.
+
+emergency3 in this path "D:\myWork\3rd year\smester 2\practical\emergency implementation3"
